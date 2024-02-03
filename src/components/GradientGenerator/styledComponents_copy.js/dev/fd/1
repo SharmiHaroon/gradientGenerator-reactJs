@@ -1,0 +1,177 @@
+root INFO [hosted-plugin: 675] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 675] PLUGIN_HOST(675): PluginManagerExtImpl/loadPlugin(/tmp/vscode-unpacked/vscode.css-language-features-1.45.1.vsix/extension/client/dist/cssMain)
+root INFO Checking whether '--no-optional-locks' can be used with the current Git executable. Minimum required version is '2.15.0'.
+root INFO >>> Restoring the layout state...
+root INFO <<< Nothing to restore.
+root INFO Changed application state from 'attached_shell' to 'initialized_layout'.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][formulahendry.auto-close-tag]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][formulahendry.auto-rename-tag]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][nxt wave.ccbp-preview-plugin]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][nxt wave.ccbp-project-workspace-plugin]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][naumovs.color-highlight]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][mikestead.dotenv]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][pkief.material-icon-theme]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][leizongmin.node-module-intellisense]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][nxt wave.update-confirmation-pop-up-plugin]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.configuration-editing]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.css]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.debug-auto-launch]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.emmet]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.handlebars]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.html-language-features]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.javascript]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.json]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.json-language-features]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.markdown]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.markdown-language-features]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.merge-conflict]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][ms-vscode.node-debug]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][ms-vscode.node-debug2]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.npm]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.python]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.scss]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.sql]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.theme-monokai]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.theme-solarized-dark]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.typescript]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.typescript-language-features]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.yaml]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][dbaeumer.vscode-eslint]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][kevinrose.vsc-python-indent]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][christian-kohler.npm-intellisense]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][christian-kohler.path-intellisense]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][esbenp.prettier-vscode]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][ritwickdey.liveserver]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][sdras.night-owl]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][xabikos.javascriptsnippets]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][streetsidesoftware.code-spell-checker]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][wayou.vscode-todo-highlight]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][editorconfig.editorconfig]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][mgmcdermott.vscode-language-babel]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][ms-python.python]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][jpoissonnier.vscode-styled-components]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.css-language-features]: Loaded contributions.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30] Load contributions of 53 plugins took: 186.9 ms
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(vscodeintellicode@1.2.11 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(auto-close-tag@0.5.5 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(auto-rename-tag@0.1.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(ccbp-preview-plugin@1.0.0 with /home/theia/node_modules/@theia/plugin-ext/lib/hosted/node/scanners/backend-init-theia.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(ccbp-project-workspace-plugin@1.0.14 with /home/theia/node_modules/@theia/plugin-ext/lib/hosted/node/scanners/backend-init-theia.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(color-highlight@2.3.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(dotenv@1.0.1 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(material-icon-theme@4.5.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(node-module-intellisense@1.2.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(update-confirmation-pop-up-plugin@1.0.0 with /home/theia/node_modules/@theia/plugin-ext/lib/hosted/node/scanners/backend-init-theia.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(css@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(debug-auto-launch@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(emmet@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(handlebars@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(html@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(html-language-features@1.49.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(vscode-theme-seti@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(javascript@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(json@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(json-language-features@1.46.1 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(markdown-language-features@1.39.2 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(merge-conflict@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(node-debug@1.35.3 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(node-debug2@1.33.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(npm@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(python@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(scss@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(sql@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(theme-defaults@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(theme-monokai@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(theme-solarized-dark@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(typescript@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(typescript-language-features@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(yaml@1.39.1-prel with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(vscode-eslint@2.1.8 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(git-graph@1.28.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(rest-client@0.24.4 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(vsc-python-indent@1.12.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(npm-intellisense@1.3.1 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(path-intellisense@2.3.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(prettier-vscode@5.8.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(LiveServer@5.6.1 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(night-owl@2.0.0 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(code-spell-checker@1.10.2 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(vscode-todo-highlight@1.0.4 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(python@2020.1.58038 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): initializing(css-language-features@1.45.1 with /home/theia/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-editorconfig/extension/out/editorConfigMain.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-custom-todo-highlight/extension/src/extension)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-custom-streetsidesoftware.code-spell-checker/extension/dist/extension.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-custom-ritwickdey.live-server/extension/out/src/extension)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-custom-path-intellisense/extension/out/extension.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-custom-dbaeumer.vscode-eslint/extension/client/out/extension)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-builtin-merge-conflicts/extension/dist/extension)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-builtin-emmet/extension/dist/extension)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-builtin-debug-auto-launch/extension/dist/extension)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/tmp/vscode-unpacked/material-icon-theme-4.5.0.vsix/extension/dist/extension)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/tmp/theia-unpacked/ccbp_preview_plugin.theia/lib/ccbp-preview-plugin.js)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/tmp/vscode-unpacked/auto-rename-tag-0.1.0.vsix/extension/out/src/extension)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/tmp/vscode-unpacked/auto-close-tag-0.5.5.vsix/extension/out/src/extension)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-builtin-markdown-language-features/extension/dist/extension)
+root INFO Changed application state from 'initialized_layout' to 'ready'.
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-builtin-typescript-language-features/extension/dist/extension)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-builtin-configuration-editing/extension/dist/extension)
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][visualstudioexptteam.vscodeintellicode]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][formulahendry.auto-close-tag]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][formulahendry.auto-rename-tag]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][nxt wave.ccbp-preview-plugin]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][nxt wave.ccbp-project-workspace-plugin]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][naumovs.color-highlight]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][mikestead.dotenv]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][pkief.material-icon-theme]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][leizongmin.node-module-intellisense]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][nxt wave.update-confirmation-pop-up-plugin]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.configuration-editing]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.css]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.debug-auto-launch]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.emmet]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.handlebars]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.html]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.javascript]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.json]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.json-language-features]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.markdown]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.markdown-language-features]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.merge-conflict]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][ms-vscode.node-debug]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.npm]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.python]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.theme-defaults]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.theme-monokai]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.theme-solarized-dark]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.typescript]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.typescript-language-features]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.yaml]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][dbaeumer.vscode-eslint]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][mhutchie.git-graph]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][humao.rest-client]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][christian-kohler.npm-intellisense]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][christian-kohler.path-intellisense]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][esbenp.prettier-vscode]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][sdras.night-owl]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][xabikos.javascriptsnippets]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][streetsidesoftware.code-spell-checker]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][wayou.vscode-todo-highlight]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][editorconfig.editorconfig]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][mgmcdermott.vscode-language-babel]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][ms-python.python]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][jpoissonnier.vscode-styled-components]: Started plugin.
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30][vscode.css-language-features]: Started plugin.
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-custom-prettier/extension/dist/extension)
+root INFO [hosted-plugin: 61] PLUGIN_HOST(61): PluginManagerExtImpl/loadPlugin(/home/theia/plugins/vscode-builtin-npm/extension/dist/main)
+root INFO [2c160fcb-cfbb-4948-830c-0ff6a0c38c30] Start of 53 plugins took: 1196.3 ms
+root INFO [hosted-plugin: 675] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+root INFO [hosted-plugin: 675] Error: Document version already has changed
+    at /tmp/vscode-unpacked/color-highlight-2.3.0.vsix/extension/dist/extension.js:3152:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
